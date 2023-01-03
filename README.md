@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-It also includes a basic Tailwind configuration using the official [Tailwind CSS documentation](https://tailwindcss.com/docs/guides/nextjs)
+It also includes a basic Tailwind configuration using the official [Tailwind CSS documentation](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Getting Started
 
